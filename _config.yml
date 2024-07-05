@@ -21,10 +21,10 @@ repository               : "Jingting-Li/Jingting-Li.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Jingting.jpg"
   name             : "Jingting (Justin) Li"
   pronouns         : # example: "she/her"  
-  bio              : "Duke University"
+  bio              : "Ph.D. Student, BME, Duke"
   location         : "Durham, United States"
   employer         : "Duke University"
   uri              : # URL
