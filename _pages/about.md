@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "About Me"
+title: "Jingting Li"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
